@@ -10,3 +10,7 @@ function calcularTotal (itens){
 
     return total
 }
+
+function mostrarMensagem(nome){
+    return "Olá " + nome
+}
