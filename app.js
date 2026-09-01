@@ -11,6 +11,11 @@ function calcularTotal (itens){
     return total
 }
 
-function mostrarMensagem(nome){
+function mostrarMensagemNome(nome){
+    return "Olá " + nome
+}
+
+
+function mostrarMensagemOlaMundo(nome){
     return "Olá " + nome
 }
