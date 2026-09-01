@@ -1,8 +1,8 @@
 function calcularTotal (itens){
-    let total = 0
+    let total = 10
 
     for (let i = 0; i < itens.length; i++){
-        total += itens[i].preco * 1.1
+        total += itens[i].preco
     }
 
     // aplica desconto de fidelidade
