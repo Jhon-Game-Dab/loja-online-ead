@@ -1,4 +1,4 @@
-# Loja Online - Camapnha De Black Friday
+# Loja Online - Camapnha De Ano Novo
 
 ## Contatos
 Duvidas: contato@loja.com.br
